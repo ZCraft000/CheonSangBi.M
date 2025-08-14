@@ -1,0 +1,28 @@
+# PyInstaller files
+/dist/
+/build/
+*.spec
+
+# Python general
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+# 幾乎所有 Python 專案都應該忽略虛擬環境資料夾
+/venv/
+/env/
+/.venv/
+/ENV/
+/env.bak/
+/venv.bak/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows specific
+Thumbs.db
