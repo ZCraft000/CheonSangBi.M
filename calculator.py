@@ -1,9 +1,9 @@
 import math
 
 # Define probabilities for outcomes:
-p1 = 0.651  # probability for outcome 1 (經脈打通+1)
-p2 = 0.263  # probability for outcome 2 (經脈打通+2)
-p3 = 0.086  # probability for outcome 3 (經脈打通+3)
+p1 = 0.62  # probability for outcome 1 (經脈打通+1)
+p2 = 0.29  # probability for outcome 2 (經脈打通+2)
+p3 = 0.09  # probability for outcome 3 (經脈打通+3)
 total_draws = 10  # maximum number of draws 總共可以打通次數
 sum_target = 20  # target sum to reach 目標打通經脈總和
 total_probability = 0.0
